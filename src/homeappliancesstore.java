@@ -41,4 +41,5 @@ public class homeappliancesstore {
             System.out.println(plithosip);
         }
     }
+
 }
